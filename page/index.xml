@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Studio Katamen</title>
+    <link>http://katamen.com/page/</link>
+    <description>Recent content in Pages on Studio Katamen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Apr 2018 04:20:34 +0900</lastBuildDate>
+    
+	<atom:link href="http://katamen.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Notice</title>
+      <link>http://katamen.com/site-notice/</link>
+      <pubDate>Sun, 29 Apr 2018 04:20:34 +0900</pubDate>
+      
+      <guid>http://katamen.com/site-notice/</guid>
+      <description>工作室历史 2018.4.29 由alpacasking成立于日本东京新宿</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://katamen.com/about/</link>
+      <pubDate>Sun, 29 Apr 2018 04:17:45 +0900</pubDate>
+      
+      <guid>http://katamen.com/about/</guid>
+      <description>我们致力于制作真正有趣的游戏。 如果能用游戏历史上从未有过的玩法让玩家认同， 那就是真正有趣的游戏。 我们不会迎合玩家，也不会设置所谓的目标玩家， 因为我们坚信，如果游戏有趣，就有喜欢的玩家。 如果没有为人喜欢，那就是游戏没有做好。 我们也坚信，通过实现创意是能够生存的。</description>
+    </item>
+    
+  </channel>
+</rss>

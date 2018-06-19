@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://katamen.com/studio_setup/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/site-notice/</loc>
+    <lastmod>2018-04-29T04:20:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/about/</loc>
+    <lastmod>2018-04-29T04:17:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/page/</loc>
+    <lastmod>2018-04-29T04:20:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/post/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/categories/%E6%95%B4%E4%BD%93/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/categories/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/tags/%E8%87%AA%E5%97%A8/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
