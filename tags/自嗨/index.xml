@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>自嗨 on Studio Katamen</title>
-    <link>http://katamen.com/tags/%E8%87%AA%E5%97%A8/</link>
-    <description>Recent content in 自嗨 on Studio Katamen</description>
+    <title>自嗨 on 多多罗游戏</title>
+    <link>https://totoro-games.github.io/tags/%E8%87%AA%E5%97%A8/</link>
+    <description>Recent content in 自嗨 on 多多罗游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Apr 2018 04:35:57 +0900</lastBuildDate>
     
-	<atom:link href="http://katamen.com/tags/%E8%87%AA%E5%97%A8/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://totoro-games.github.io/tags/%E8%87%AA%E5%97%A8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>工作室成立</title>
-      <link>http://katamen.com/studio_setup/</link>
+      <link>https://totoro-games.github.io/studio_setup/</link>
       <pubDate>Sun, 29 Apr 2018 04:35:57 +0900</pubDate>
       
-      <guid>http://katamen.com/studio_setup/</guid>
+      <guid>https://totoro-games.github.io/studio_setup/</guid>
       <description>工作室算是成立了。虽然只有自己一个人。找其他人效率太低了，除非跟自己一样 是愣头青。先把手头的游戏做完发了，就酱。</description>
     </item>
     
